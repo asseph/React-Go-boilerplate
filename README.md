@@ -1,4 +1,4 @@
-# Golang / React template
+# Golang / React boilerplate
 
 This is a super slim starter kit for an app with a Golang backend (in the `backend` directory) and a React-based frontend (in the `frontend`) directory.  In a nutshell:
 
